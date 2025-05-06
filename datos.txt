@@ -1,0 +1,10 @@
+Carrera : Diseño y programacion web 
+Materia: Programacion II
+Cuatrimestre: 1er cuatrimestre
+Año: 2025
+Turno: Tarde
+Comision:3AV
+Apellido: Roberti
+Nombre: Teresa 
+Docente : Gallino Santiago
+Carácter de entrega: 1er parcial

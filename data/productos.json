@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "nombre": "Bolson verdura",
+    "imagen": "img/bolson-grande.jpeg",
+    "precio": 10300,
+    "categoria": "Bolsones",
+    "descripcion": "Bolson surtido de verduras frescas de estación para toda la semana."
+  },
+  {
+    "id": "2",
+    "nombre": "Aceite girasol Cortijo",
+    "imagen": "img/aceite-cortijo.png",
+    "precio": 3800,
+    "categoria": "Almacen",
+    "descripcion": "Aceite de girasol ideal para cocinar o condimentar tus comidas."
+  },
+  {
+    "id": "3",
+    "nombre": "Cebolla Morada",
+    "imagen": "img/cebolla-roja.jpg",
+    "precio": 2200,
+    "categoria": "Fresco",
+    "descripcion": "Cebolla morada fresca, perfecta para ensaladas o salteados."
+  },
+  {
+    "id": "4",
+    "nombre": "Aceite oliva Cuchiyaco",
+    "imagen": "img/aceite-cuchiyaco.jpg",
+    "precio": 8800,
+    "categoria": "Almacen",
+    "descripcion": "Aceite de oliva virgen extra, prensado en frío y de alta calidad."
+  },
+  {
+    "id": "5",
+    "nombre": "Tomate",
+    "imagen": "img/tomate.jpg",
+    "precio": 2500,
+    "categoria": "Fresco",
+    "descripcion": "Tomates frescos, jugosos y maduros para todas tus recetas."
+  },
+  {
+    "id": "6",
+    "nombre": "Papa",
+    "imagen": "img/papa.jpeg",
+    "precio": 2800,
+    "categoria": "Fresco",
+    "descripcion": "Papas naturales seleccionadas, ideales para hervir o freír."
+  },
+  {
+    "id": "7",
+    "nombre": "Zanahoria",
+    "imagen": "img/zanahoria.webp",
+    "precio": 2700,
+    "categoria": "Fresco",
+    "descripcion": "Zanahorias dulces y crujientes, fuente de vitamina A."
+  },
+  {
+    "id": "8",
+    "nombre": "Aceitunas Verdes",
+    "imagen": "img/aceituna-verde.webp",
+    "precio": 3300,
+    "categoria": "Almacen",
+    "descripcion": "Aceitunas verdes descarozadas, perfectas como snack o en platos."
+  },
+  {
+    "id": "9",
+    "nombre": "Aceitunas Negras",
+    "imagen": "img/aceitunas-negras.png",
+    "precio": 4000,
+    "categoria": "Almacen",
+    "descripcion": "Aceitunas negras de sabor intenso, listas para consumir."
+  },
+  {
+    "id": "10",
+    "nombre": "Queso Sardo",
+    "imagen": "img/queso-sardo.jpg",
+    "precio": 15000,
+    "categoria": "Fresco",
+    "descripcion": "Queso sardo estacionado, de sabor fuerte y textura firme."
+  },
+  {
+    "id": "11",
+    "nombre": "Harina trigo",
+    "imagen": "img/harina-trigo.jpeg",
+    "precio": 1800,
+    "categoria": "Almacen",
+    "descripcion": "Harina de trigo refinada, ideal para panificados y repostería."
+  },
+  {
+    "id": "12",
+    "nombre": "Harina centeno",
+    "imagen": "img/harina-centeno.jpeg",
+    "precio": 1800,
+    "categoria": "Almacen",
+    "descripcion": "Harina integral de centeno, rica en fibra y sabor natural."
+  },
+  {
+    "id": "13",
+    "nombre": "Bolsa frutal",
+    "imagen": "img/bolsa-frutal.jpg",
+    "precio": 3600,
+    "categoria": "Bolsones",
+    "descripcion": "Bolsa con frutas seleccionadas, frescas y listas para consumir."
+  },
+  {
+    "id": "14",
+    "nombre": "Bolsa pesada",
+    "imagen": "img/bolsa-pesada.png",
+    "precio": 2000,
+    "categoria": "Bolsones",
+    "descripcion": "Bolsa variada con productos a granel en presentación económica."
+  },
+  {
+    "id": "15",
+    "nombre": "Botella salsa de tomate",
+    "imagen": "img/botella-tomate.jpeg",
+    "precio": 2200,
+    "categoria": "Almacen",
+    "descripcion": "Salsa de tomate natural en botella, sin conservantes."
+  },
+  {
+    "id": "16",
+    "nombre": "Cherrys colores",
+    "imagen": "img/cherrys-colores.webp",
+    "precio": 2300,
+    "categoria": "Fresco",
+    "descripcion": "Tomates cherry de varios colores, dulces y decorativos."
+  },
+  {
+    "id": "17",
+    "nombre": "Dulce de leche",
+    "imagen": "img/ddl-manfrey.jpeg",
+    "precio": 3000,
+    "categoria": "Almacen",
+    "descripcion": "Dulce de leche cremoso de sabor tradicional, ideal para postres."
+  },
+  {
+    "id": "18",
+    "nombre": "Yerba Grapia Milenaria",
+    "imagen": "img/yerba-grapia.jpg",
+    "precio": 2800,
+    "categoria": "Almacen",
+    "descripcion": "Yerba mate agroecológica con sabor suave y duradero."
+  },
+  {
+    "id": "19",
+    "nombre": "Bubble tea - Té Rojo",
+    "imagen": "img/yerba-orembae.jpeg",
+    "precio": 2800,
+    "categoria": "Almacen",
+    "descripcion": "Infusión estilo bubble tea con base de té rojo, innovadora y sabrosa."
+  }
+]
